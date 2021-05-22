@@ -1,4 +1,4 @@
-ud120-projects
+ML-projects
 ==============
 
-Starter project code for students taking Udacity ud120
+Try its .py files
