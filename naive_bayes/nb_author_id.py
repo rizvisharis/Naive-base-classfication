@@ -57,4 +57,5 @@ def NBAccuracy(features_train, labels_train, features_test, labels_test):
     return accuracy
 #########################################################
 
-NBAccuracy(features_train, labels_train, features_test, labels_test)
+if __name__ == '__main__' :
+    NBAccuracy(features_train, labels_train, features_test, labels_test)
